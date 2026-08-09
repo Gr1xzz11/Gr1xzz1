@@ -4,6 +4,9 @@ on:
   push:
     branches:
       - grxt-mobile-build-v05
+  pull_request:
+    branches:
+      - main
 
 jobs:
   build:
