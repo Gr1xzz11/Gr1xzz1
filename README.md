@@ -90,14 +90,17 @@ Android/network-проект GRXT для работы с сетевыми под
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Gr1xzz11&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=7C3AED&text_color=C9D1D9&locale=ru" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gr1xzz11&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img height="170" src="./profile/stats.svg" alt="GitHub Stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top Languages" />
 
 <br>
+<br>
 
-<img width="700" src="https://streak-stats.demolab.com?user=Gr1xzz11&theme=github-dark-blue&hide_border=true&locale=ru&background=0D1117&ring=58A6FF&fire=7C3AED&currStreakLabel=58A6FF" alt="GitHub Streak" />
+<img width="700" src="./profile/streak.svg" alt="GitHub Streak" />
 
 </div>
+
+> Статистика генерируется через GitHub Actions и хранится прямо в этом репозитории — без зависимости от публичных Vercel-инстансов.
 
 ---
 
