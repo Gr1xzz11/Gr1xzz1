@@ -1,31 +1,78 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+# 👋 Привет, я Gr1xzz1
+
+### Разработчик • Создаю свои проекты • Постоянно учусь
+
+Мне нравится создавать программы, экспериментировать с технологиями и превращать идеи в работающие проекты.
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=Python+%E2%80%A2+Java+%E2%80%A2+Android;Создаю+вещи%2C+которые+реально+полезны;Каждый+день+изучаю+что-то+новое" alt="Typing SVG" />
+
 </div>
-### :woman_technologist: About Me :
 
-I have been familiar with programming for 4 years
+---
 
-I study programming languages.
+## 👨‍💻 Обо мне
 
-I learn something new for me.
+- Программированием занимаюсь уже **более 4 лет**
+- Основные языки — **Python и Java**
+- Разрабатываю приложения для **Linux, Windows и Android**
+- Работаю с backend, API, серверной инфраструктурой и сетевыми инструментами
+- Люблю не просто изучать технологии, а применять их в реальных проектах
 
-Every day I try to do something interesting!
+---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg title="Android" alt="Android" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src=https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
+## 🛠 Языки и инструменты
 
-  ### 👨‍💻 It's All! Thanks for visit on my page!
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,androidstudio,vscode,idea,git,github,linux&perline=9" alt="Технологии" />
+
+</div>
+
+---
+
+## 🚀 Чем занимаюсь
+
+```text
+Разработка
+├── Python
+├── Java
+├── Android
+├── Desktop
+└── Web / API
+
+Инфраструктура
+├── Linux
+├── VPS
+├── Nginx
+├── MySQL
+└── GitHub Actions
+
+Инструменты
+├── IntelliJ IDEA
+├── Android Studio
+├── VS Code
+├── Git
+└── GitHub
+```
+
+---
+
+## ◈ GRXT
+
+Часть моих проектов развивается под названием **GRXT** — приложения, инструменты и инфраструктура для desktop, mobile и network-задач.
+
+🌐 **Сайт:** [grxt.dev](https://grxt.dev)
+
+---
+
+<div align="center">
+
+### Спасибо, что заглянул в мой профиль.
+
+<sub>Создавать. Экспериментировать. Развиваться.</sub>
+
 </div>
